@@ -6,7 +6,7 @@ export class SubBox extends Component {
 	render(){
 		return(
 			<div className="column">
-              <p className="notification is-info">
+              <p className="notification is-warning">
               	First column
               </p>
             </div>
